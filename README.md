@@ -54,6 +54,21 @@ by department, role, age group and compensation level.
 - Non-travellers: 8.00%
 
 ---
+🎯 THE RECOMMENDATIONS
+
+1️⃣ Revise Sales Representative compensation urgently
+At $2,626/month with 39.76% attrition, the cost of replacing these employees far exceeds the cost of raising their base salary. This is the single highest-return intervention available.
+
+2️⃣ Build a structured early career programme
+With 39.18% of under-25 employees leaving, IBM is losing its talent pipeline before it matures. Mentorship, clear progression paths and early salary reviews would directly address this.
+
+3️⃣ Review the travel policy for high-frequency roles
+Frequent travellers leave at 3x the rate of non-travellers. Introducing travel allowances, rotation policies or remote work options for travel-heavy roles would reduce this risk significantly.
+
+4️⃣ Use income benchmarking as a retention early warning system
+The data shows a clear income threshold below which attrition accelerates. HR teams should flag employees earning significantly below their department average for proactive retention conversations.
+
+---
 
 ## SQL Skills Demonstrated
 
