@@ -98,7 +98,11 @@ The data shows a clear income threshold below which attrition accelerates. HR te
 Available on Kaggle — created for educational purposes 
 
 ---
+## | Other SQL Projects |
 
+- 🔗[olist-ecommerce-sql-analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
+
+---
 ## | Other Excel Analyst Projects |  
 - 🔗[Global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
 - 🔗[Kenya Banking Risk Dashboard](https://github.com/NC-Dan/kenya-banking-risk-dashboard)
