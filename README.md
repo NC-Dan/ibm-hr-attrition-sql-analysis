@@ -101,7 +101,10 @@ Available on Kaggle — created for educational purposes
 ## | Other SQL Projects |
 
 - 🔗[olist-ecommerce-sql-analysis](https://github.com/NC-Dan/olist-ecommerce-sql-analysis)
-
+- 🔗[Credit-card-fraud-detection-sql](https://github.com/duncanalyst/credit-card-fraud-detection-sql)
+---
+## | PowerBI Analyst Projects |  
+- 🔗[Olist-ecommerce-powerbi-analysis](https://github.com/duncanalyst/Olist-ecommerce-powerbi)
 ---
 ## | Other Excel Analyst Projects |  
 - 🔗[Global-superstore-sales-dashboard](https://github.com/NC-Dan/global-superstore-sales-dashboard)
